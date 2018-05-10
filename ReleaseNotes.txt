@@ -60,3 +60,8 @@ Release notes 0.1.1 -Ruby Version
 - cryptotoken Fixed
 - cleanup uneccesary files
 - removed cryptonote-token branch[useless-already merge]
+
+Release notes 0.1.2 -Ruby Version
+
+- Resist ASIC[50%]
+
