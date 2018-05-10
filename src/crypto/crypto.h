@@ -17,6 +17,7 @@
 
 #include "generic-ops.h"
 #include "hash.h"
+#include "cuckoo.h"
 
 namespace Crypto {
 
